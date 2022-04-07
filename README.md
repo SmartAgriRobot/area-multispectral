@@ -1,5 +1,5 @@
 # Area Multispectral
-Normalized Difference Vegetation Index (NDVI) is a measurement of the amount of live vegetation in an area and is commonly used for agricultural assessment
+Multispectral imaging captures image data within specific wavelength ranges across the electromagnetic spectrum. The wavelengths may be separated by filters or detected with the use of instruments that are sensitive to particular wavelengths
 
 ## Features
 * Live NDVI Image
