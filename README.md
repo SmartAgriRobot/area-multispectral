@@ -35,7 +35,7 @@ python3 main.py
 The Area Multispectral is released under the MIT license.
 
 ## Folder structure
-| ###Folder Name  | ###detail  |
+| Folder Name  | detail  |
 | :------------ |:---------------:|
 | 3d            | STL file part for 3d printer |
 | clip          | Operation video clip       |
