@@ -36,7 +36,7 @@ The Area Multispectral is released under the MIT license.
 
 ## Folder structure
 | Folder Name  | detail  |
-| :------------ |:---------------:|
+| :------------ |:---------------|
 | 3d            | STL file part for 3d printer |
 | clip          | Operation video clip       |
 | images        | Images of prototype        |
